@@ -4,9 +4,9 @@ layout: default
 
 ![avatar](avatar.jpg)
 
-# Kirby
+# testing
 
-A Nintendo Character
+testing
 
 - - -
 
